@@ -3,6 +3,10 @@ layout: page
 title: "About Me"
 ---
 
+                | 
+:-------------------------:|:-------------------------:
+![](head.jepg)  |  
+
 Hello! I am Zehan yang, a Ph.D. candidates in 
 [Statistics Department](https://statistics.uconn.edu) 
 at the [University of Connecticut](https://uconn.edu).
