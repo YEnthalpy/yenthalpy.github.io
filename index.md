@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="left" width="350" height="300" src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg">
+<img align="left" width="350" height="300" src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true">
 
 # Zehan Yang
 
