@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 Hello! I am Zehan yang, a Ph.D. candidates in department of Statistics at the 
