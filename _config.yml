@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "cv.pdf", title: "CV", url: "https://github.com/YEnthalpy/yenthalpy.github.io/raw/master/cv.pdf"}
+  - {file: "cv.pdf", title: "CV", url: "https://www.dropbox.com/s/c5hsj7vo9bmnfmk/cv.pdf?dl=0"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
