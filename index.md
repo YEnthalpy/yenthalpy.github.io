@@ -4,7 +4,7 @@ title: ""
 ---
 
 <img src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true" 
-     style="width:50%; margin-right:20px;" align="left"/>
+     style="width:50%; margin-right:40px;" align="left"/>
 
 # Zehan Yang
 
