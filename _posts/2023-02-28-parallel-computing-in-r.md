@@ -1,5 +1,5 @@
 ---
-title:  "Using R in High Performance Computing (HPC) Cluster"
+title:  "Parallel Computing in R"
 layout: post
 ---
 
