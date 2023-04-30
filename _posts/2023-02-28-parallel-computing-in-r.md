@@ -177,8 +177,8 @@ wrap <- function(ncore) {
 
 # Compare the computing between parLapply, lapply and mcLapply
 microbenchmark(lapply(seeds, myfunc), wrap(4),
-               mclapply(seeds, myfunc, mc.cores = 4, mc.set.seed = FALSE),
-               times = 10)
+               mclapply(seeds, myfunc, mc.cores = 4,
+               mc.set.seed = FALSE), times = 10)
 ```
 
 > The parallelized versions of `lapply()` are `parLapply()` and `mclapply()`.
