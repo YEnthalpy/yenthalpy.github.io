@@ -144,35 +144,49 @@ assign(".Random.seed", seeds[[1]], envir = .GlobalEnv)
 ## Example
 
 
-> The subsequent code calculates the sum of 100 random numbers generated from a
-standard normal distribution with 1 added to each. This process is repeated 1000
-times in parallel on a cluster with 4 cores
+> The subsequent code generates 10,000 bootstrap replicates of a linear model and
+returns the R square coefficients.
 
 
 ```R
 library(parallel)
-cl <- makeCluster(4)
+library(microbenchmark)
 # Write the function
-myfunc <- function(seed, add) {
+myfunc <- function(seed) {
   assign(".Random.seed", seed, envir = .GlobalEnv)
-  sum(rnorm(100) + add)
+  b_df <- mtcars[sample(nrow(mtcars), rep = TRUE), ]
+  mdl <- lm(mpg ~ wt + disp, data = b_df)
+  return(summary(mdl)$r.square)
 }
 # Generate the random seeds
 RNGkind("L'Ecuyer-CMRG")
-njobs <- 1000
+njobs <- 10000
 set.seed(2002)
 seeds <- list(.Random.seed)
 for (i in seq(2, njobs, 1)) {
   seeds[[i]] <- parallel::nextRNGStream(seeds[[i - 1]])
 }
-# Execute the code on the cluster
-results <- parSapply(cl, seeds, myfunc, add = 1)
-stopCluster(cl)
+
+wrap <- function(ncore) {
+  # Execute the code on the cluster
+  cl <- makeCluster(ncore)
+  results <- parLapply(cl, seeds, myfunc)
+  stopCluster(cl)
+  return(results)
+}
+
+# Compare the computing between parLapply, lapply and mcLapply
+microbenchmark(lapply(seeds, myfunc), wrap(4),
+               mclapply(seeds, myfunc, mc.cores = 4, mc.set.seed = FALSE),
+               times = 10)
 ```
 
-> The `parSapply()` function is the parallel version of `sapply()`. For the
-`i`'th task, `parSapply()` calls `myfunc(seed, add)` with
-`seed = seeds[[i]]` and the `add = 1`.
+> The parallelized versions of `lapply()` are `parLapply()` and `mclapply()`.
+The key difference is that `mclapply()` can only be used on OS/Linux operating
+systems and does not require creating a cluster environment. To ensure
+reproducibility, I advise users to use self-defined random seeds instead
+of setting `mc.set.seed = TRUE`, which enables tracking of the random seeds
+employed in each sub-task.
 
 
 > The `parallel` package contains several `apply` functions for various purposes,
