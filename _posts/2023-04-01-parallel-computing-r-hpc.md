@@ -182,11 +182,11 @@ for (i in seq(2, njobs, 1)) {
 out <- slurm_map(seeds, myfunc, nodes = 250,
                  cpus_per_node = 1,
                  slurm_options =
-                   list(partition = "general"，
+                   list(partition = "general",
                         time = "12:00:00",
                         `mail-type` = "END",
-                        `mail-user` = "xxxx@xxxx.com"
-                        `mem-per-cpu` = "4G")，
+                        `mail-user` = "xxxx@xxxx.com",
+                        `mem-per-cpu` = "4G"),
                  submit = TRUE)
 save(out, file = "result.RData")
 ```
