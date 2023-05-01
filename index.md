@@ -3,27 +3,40 @@ layout: page
 title: ""
 ---
 
-<img src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true" 
-     style="width:50%; margin-right:40px;" align="left"/>
+<table style="width:100%">
+  <tr>
+    <td style="width:50%">
+    <img src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true"
+         alt="Figure">
+    </td>
+    <td>
+      <ul style="list-style: none;">
+        <li style="font-size: 25px;">Zehan Yang</li>
+        <li><a href="https://statistics.uconn.edu"
+               style="color:light-blue;text-decoration:none;"
+               target="_blank" > Department of Statistics
+             </a>
+        </li>
+        <li><a href="https://uconn.edu"
+               style="color:light-blue;text-decoration:none;"
+               target="_blank" > University of Connecticut
+             </a>
+        </li>
+        <li>Room 301 Philip E. Austin Building</li>
+        <li>215 Glenbrook Rd. U-4120</li>
+        <li>Storrs, CT 06269-4120</li>
+        <li>Phone: (860) 634-0053</li>
+        <li>Email: zehan.yang@uconn.edu</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-# Zehan Yang
-
-[Department of Statistics](https://statistics.uconn.edu) <br />
-[University of Connecticut](https://uconn.edu) <br />
-Room 301 Philip E. Austin Building <br />
-215 Glenbrook Rd. U-4120 <br />
-Storrs, CT 06269-4120 <br />
-Phone: (860) 634-0053 <br />
-Email: zehan.yang@uconn.edu <br />
-
-<br />
-<br />
-<br />
 
 # About me
 
-Hello! I am Zehan yang, a Ph.D. candidates in 
-[Statistics Department](https://statistics.uconn.edu) 
+Hello! I am Zehan yang, a Ph.D. candidates in
+[Statistics Department](https://statistics.uconn.edu)
 at the [University of Connecticut](https://uconn.edu).
 
 My research interests are Survival Analysis, Optimal
@@ -31,11 +44,11 @@ Subsampling and Statistical Computing. I have been working on the
 optimal subsampling method for big survival data based on parametric
 and semi-parametric accelerated failure time model for three years.
 
-Besides my own research, I am a research assistant in 
+Besides my own research, I am a research assistant in
 [Department of Public Health Sciences](https://health.uconn.edu/public-health-sciences/)
 in the [University of Connecticut, Health
 Center](https://health.uconn.edu). I have finished multiple consulting
-projects for medical researchers and medical doctors since 2021. 
+projects for medical researchers and medical doctors since 2021.
 
 # Publication
 
