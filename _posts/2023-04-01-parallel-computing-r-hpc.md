@@ -75,7 +75,7 @@ id <- sys.getenv('SLURM_ARRAY_TASK_ID')
 # Derive the results
 nary <- 250  ## Number of job arrays
 jpc <- njobs / nary  ## Number of jobs per job array
-trd <- detectCores()  ## Number of cores in each CPU
+trd <- 2  ## Number of threads requested in each CPU
 out <- mclapply(seeds[(id * jpc):((id + 1) * jpc - 1)],
                 myfunc, mc.cores = trd,
                 mc.set.seed = FALSE)

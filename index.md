@@ -5,11 +5,11 @@ title: ""
 
 <table style="width:100%; background: transparent; border-collapse: collapse;">
   <tr>
-    <td style="width:50%">
+    <td style="width:50%; border: none;">
     <img src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true"
          alt="Figure">
     </td>
-    <td>
+    <td style="padding-left: 10px; border: none;">
       <ul style="list-style: none;">
         <li style="font-size: 25px;">Zehan Yang</li>
         <li><a href="https://statistics.uconn.edu"
