@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<table style="width:100%">
+<table style="width:100%; background: transparent; border-collapse: collapse;">
   <tr>
     <td style="width:50%">
     <img src="https://github.com/YEnthalpy/yenthalpy.github.io/blob/master/head.jpeg?raw=true"
