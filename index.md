@@ -63,9 +63,17 @@ Data. Preprint at Research Square](https://doi.org/10.21203/rs.3.rs-2866415/v1)
 * Optimal Subsampling for Parametric Accelerated Failure Time Models with Massive Survival Data.
 2022 Joint Statistical Meetings , Washington D.C., August 6 - August 11, 20.
 
+* Subsampling Approach for Least Squares Fitting of Semi-parametric Accelerated Failure
+  Time Models to Massive Survival Data. 2023 ICSA Applied Statistics Symposium, Ann Arbor,
+  Michigan, June 11–June 14, 2023.
+
 # Honors and Awards
 
 * The 2022 LiDS Student Paper Award by the American Statistical Association.
+
+* The Honorable Mention for the 2023 Student Paper Competition by International Chinese
+  Statistical Association (ICSA)
+
 
 # Project in Progress
 
