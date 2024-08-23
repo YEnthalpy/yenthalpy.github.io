@@ -52,13 +52,13 @@ I have finished multiple consulting projects for medical researchers and medical
 # Publication
 
 * [Yang, Z., H. Wang, and J. Yan (2022). Optimal Subsampling for Parametric Accelerated Failure Time Models with
-Massive Survival Data. *Statistics in Medicine*, 41(27), 5421–5431](https://doi.org/10.1002/sim.9576)
+Massive Survival Data. *Statistics in Medicine*, 41(27), 5421–5431.](https://doi.org/10.1002/sim.9576)
 * [Yang, Z., H. Wang, and J. Yan (2024). Subsampling Approach for Least Squares Fitting of Semi-parametric
 Accelerated Failure time Models to Massive Survival Data.
-*Statistics and Computing*, 34(2), 77](https://doi.org/10.1007/s11222-024-10391-y)
+*Statistics and Computing*, 34(2), 77.](https://doi.org/10.1007/s11222-024-10391-y)
 * [Yang, Z., H. Wang, and J. Yan (2024). Optimal Subsampling for Semi-parametric Accelerated Failure Time Models with
 Massive Survival Data Using a Rank-based Approach.
-*Statistics in Medicine*, Published Online](https://doi.org/10.1002/sim.10200)
+*Statistics in Medicine*, Published Online.](https://doi.org/10.1002/sim.10200)
 
 # Presentations
 
