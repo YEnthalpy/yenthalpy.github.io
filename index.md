@@ -35,16 +35,15 @@ title: ""
 
 # About me
 
-Hello! I am Zehan yang, a Ph.D. candidates in
-[Statistics Department](https://statistics.uconn.edu)
-at the [University of Connecticut](https://uconn.edu).
+Hello! I am Zehan yang, a Ph.D. in Statistics graduated from
+[University of Connecticut](https://uconn.edu).
 
 My research interests are Survival Analysis, Optimal
 Subsampling and Statistical Computing. I have been working on the
 optimal subsampling method for big survival data based on parametric
 and semi-parametric accelerated failure time model for three years.
 
-Besides my own research, I am a research assistant in
+Besides my own research, I was a research assistant in
 [Department of Public Health Sciences](https://health.uconn.edu/public-health-sciences/)
 in the [University of Connecticut, Health
 Center](https://health.uconn.edu). I have finished multiple consulting
@@ -55,20 +54,20 @@ projects for medical researchers and medical doctors since 2021.
 * [Yang, Z., H. Wang, and J. Yan (2022). Optimal Subsampling for Parametric Accelerated Failure Time Models with
 Massive Survival Data. *Statistics in Medicine*, 41(27), 5421–5431](https://doi.org/10.1002/sim.9576)
 * [Yang, Z., H. Wang, and J. Yan (2024). Subsampling Approach for Least Squares Fitting of Semi-parametric
-Accelerated Failure time Models to Massive Survival Data
+Accelerated Failure time Models to Massive Survival Data.
 *Statistics and Computing*, 34(2), 77](https://doi.org/10.1007/s11222-024-10391-y)
 * [Yang, Z., H. Wang, and J. Yan (2024). Optimal Subsampling for Semi-parametric Accelerated Failure Time Models with
-Massive Survival Data Using a Rank-based Approach
+Massive Survival Data Using a Rank-based Approach.
 *Statistics in Medicine*, Published Online](https://doi.org/10.1002/sim.10200)
 
 # Presentations
 
 * Optimal Subsampling for Parametric Accelerated Failure Time Models with Massive Survival Data.
-2022 Joint Statistical Meetings , Washington D.C., August 6 - August 11, 20.
+2022 Joint Statistical Meetings , Washington D.C., August 6 - August 11, 2022.
 
 * Subsampling Approach for Least Squares Fitting of Semi-parametric Accelerated Failure
   Time Models to Massive Survival Data. 2023 ICSA Applied Statistics Symposium, Ann Arbor,
-  Michigan, June 11–June 14, 2023.
+  Michigan, June 11 – June 14, 2023.
 
 # Honors and Awards
 
