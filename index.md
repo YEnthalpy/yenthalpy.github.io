@@ -53,10 +53,13 @@ projects for medical researchers and medical doctors since 2021.
 # Publication
 
 * [Yang, Z., H. Wang, and J. Yan (2022). Optimal Subsampling for Parametric Accelerated Failure Time Models with
-Massive Survival Data. *Statistics in Medicine 41(27)*, 5421–543](https://doi.org/10.1002/sim.9576)
+Massive Survival Data. Statistics in Medicine*, 41(27), 5421–5431](https://doi.org/10.1002/sim.9576)
 * [Yang, Z., H. Wang, and J. Yan (2024). Subsampling approach for least squares fitting of semi-parametric
 accelerated failure time models to massive survival
-data *Statistics and Computing 34(77)](https://doi.org/10.1007/s11222-024-10391-y)
+data *Statistics and Computing*, 34(2), 77](https://doi.org/10.1007/s11222-024-10391-y)
+* [Yang, Z., H. Wang, and J. Yan (2024). Optimal subsampling for semi-parametric accelerated failure time models with
+massive survival data using a rank-based approach
+*Statistics in Medicine*, Published Online](https://doi.org/10.1002/sim.10200)
 
 # Presentations
 
@@ -77,8 +80,6 @@ data *Statistics and Computing 34(77)](https://doi.org/10.1007/s11222-024-10391-
 
 # Project in Progress
 
-* Subsampling Approach for Rank-Based Fitting of Semi-parametric Accelerated Failure Time Models to Massive Survival Data.
-* Impact of Mental Disorder and Drug Addiction on Adult Bio-markers Among Low-income Women after Hurricane Ike.
 * Impact of Continuous Positive Airway Pressure (CPAP) Therapy on A1C Levels in Patients with Prediabetes.
 * Relationship between Religious Affiliation and Burnout Among National Health Service (NHS) Staff in Britain: Findings from Staff Surveys.
 
