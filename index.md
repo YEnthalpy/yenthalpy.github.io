@@ -46,8 +46,8 @@ and semi-parametric accelerated failure time model for three years.
 Besides my own research, I was a research assistant in
 [Department of Public Health Sciences](https://health.uconn.edu/public-health-sciences/)
 in the [University of Connecticut, Health
-Center](https://health.uconn.edu). I have finished multiple consulting
-projects for medical researchers and medical doctors since 2021.
+Center](https://health.uconn.edu) from Septemper, 2021 to December, 2023. 
+I have finished multiple consulting projects for medical researchers and medical doctors.
 
 # Publication
 
