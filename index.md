@@ -77,17 +77,11 @@ Massive Survival Data Using a Rank-based Approach.
   Statistical Association (ICSA)
 
 
-# Project in Progress
-
-* Impact of Continuous Positive Airway Pressure (CPAP) Therapy on A1C Levels in Patients with Prediabetes.
-* Relationship between Religious Affiliation and Burnout Among National Health Service (NHS) Staff in Britain: Findings from Staff Surveys.
-
 # Skills
 
 * Proficient in R and in using the interface between R and C/C++.
 * Clean and analyze medical data using SAS. I have passed the SAS Base Programming Exam in 2019.
 * Familar with Parllel computing in R using High Performance Computing (HPC) Cluster.
-* Basic librarys for Python: NumPy and Pandas.
 * I love learning programming languages and emerging technologies.
 
 
