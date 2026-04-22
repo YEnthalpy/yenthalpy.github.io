@@ -22,7 +22,7 @@ title: ""
 
 # About me
 
-Hello! I am Zehan yang, a Ph.D. in Statistics graduated from
+Hello! I am Zehan yang, a Ph.D. in Statistics graduated from [Department of Statistics](https://statistics.uconn.edu), 
 [University of Connecticut](https://uconn.edu).
 
 I currently serve as a statistical reviewer at the [U.S. Food and Drug 
