@@ -12,19 +12,6 @@ title: ""
     <td style="padding-left: 10px; border: none;">
       <ul style="list-style: none;">
         <li style="font-size: 25px;">Zehan Yang</li>
-        <li><a href="https://statistics.uconn.edu"
-               style="color:light-blue;text-decoration:none;"
-               target="_blank" > Department of Statistics
-             </a>
-        </li>
-        <li><a href="https://uconn.edu"
-               style="color:light-blue;text-decoration:none;"
-               target="_blank" > University of Connecticut
-             </a>
-        </li>
-        <li>Room 301 Philip E. Austin Building</li>
-        <li>215 Glenbrook Rd. U-4120</li>
-        <li>Storrs, CT 06269-4120</li>
         <li>Phone: (860) 634-0053</li>
         <li>Email: zehan.yang@uconn.edu</li>
       </ul>
