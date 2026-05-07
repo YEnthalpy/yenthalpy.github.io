@@ -5,12 +5,7 @@ permalink: /cv/
 ---
 
 <div class="cv-viewer">
-  <object data="{{ '/assets/cv.pdf' | relative_url }}" type="application/pdf">
-    <p>
-      Your browser cannot display the CV here.
-      <a href="{{ '/assets/cv.pdf' | relative_url }}">Open the PDF instead.</a>
-    </p>
-  </object>
+  <object data="{{ '/assets/cv.pdf' | relative_url }}" type="application/pdf"></object>
 </div>
 
 <style>
