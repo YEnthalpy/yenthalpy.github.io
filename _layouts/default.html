@@ -22,6 +22,7 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("a[href]").forEach(function (link) {
+      if (link.dataset.sameTab === "true") return;
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener");
     });
@@ -36,7 +37,7 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title" data-same-tab="true">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
 

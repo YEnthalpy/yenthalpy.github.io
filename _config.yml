@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "cv.md", title: "CV", new_tab: true}
-  - {file: "blog.md", title: "Blog"}
+  - {file: "blog.md", title: "Blog", same_tab: true}
 
 
 
